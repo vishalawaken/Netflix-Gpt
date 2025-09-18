@@ -27,7 +27,12 @@
 - Fetch Data for Trailer Video
 - Using Custom Hook for Trailer Video Data
 - updated the Store with Trailer Video Data
-- Tailwind Classes to make Main Container look Awesome
+- Tailwind Classes to make Main Container and Secondary Container look Awesome
+- GPT Search Feature
+- GPT Search Page
+- GPT Search Bar
+- *(Multilanguage Feature in Our App)
+- Integrate the GPT API'S
 
 # Features
 - login/Sign Up
