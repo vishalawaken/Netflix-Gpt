@@ -13,6 +13,15 @@ export const API_OPTIONS = {
   },
 };
 
-export const IMG_CDN_URL="https://image.tmdb.org/t/p/w500"
+export const IMG_CDN_URL = "https://image.tmdb.org/t/p/w500";
 
-export const SUPPORTED_LANGUAGES=[{identifier:"en",name:"English"},{identifier:"hindi",name:"Hindi"},{identifier:"spanish",name:"Spanish"}]
+export const SUPPORTED_LANGUAGES = [
+  { identifier: "en", name: "English" },
+  { identifier: "hindi", name: "Hindi" },
+  { identifier: "spanish", name: "Spanish" },
+];
+
+export const OPEN_AI_KEY =
+  "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";
+
+  export const PERPLEXITY_API_KEY="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"
