@@ -33,6 +33,11 @@
 - GPT Search Bar
 - *(Multilanguage Feature in Our App)
 - Integrate the GPT API'S
+- Fetched GPT movie Suggestions frm TMDB
+- created PerplexitySlice added Data
+- Reuse Movie List component to make movie suggestions container
+- Memoization
+- Responsive Design of the UI
 
 # Features
 - login/Sign Up
